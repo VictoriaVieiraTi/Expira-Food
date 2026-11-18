@@ -21,9 +21,29 @@ Desenvolver uma plataforma que facilite a divulgação e a comercialização de 
 - Visualização de informações dos produtos.
 - Gerenciamento de pedidos.
 
-## 🛠️ Tecnologias utilizadas
+---
 
-*Em atualização conforme o desenvolvimento do projeto.*
+## 🛠️ Tecnologias e ferramentas
+
+As tecnologias previstas para o desenvolvimento
+ao longo do curso Técnico em Desenvolvimento de
+Sistemas são:
+
+| Área | Tecnologias |
+|---|---|
+| Linguagem principal | C# |
+| Banco de Dados | SQL Server |
+| Front-end Web | HTML5, CSS3 e JavaScript |
+| Back-end Web | ASP.NET MVC + C# |
+| Desktop | C# + WinForms + SQL Server |
+| Mobile | Kotlin + Jetpack Compose |
+| Banco de Dados Mobile | SQLite + Room |
+| Testes de API | Postman |
+
+> As tecnologias serão aplicadas conforme as
+> etapas de desenvolvimento do projeto.
+
+---
 
 ## 🗄️ Banco de dados
 
